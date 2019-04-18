@@ -1,6 +1,6 @@
 //
-//  Table_view_practiceUITests.swift
-//  Table view practiceUITests
+//  CalendarUITests.swift
+//  CalendarUITests
 //
 //  Created by Ing on 2019. 4. 18..
 //  Copyright © 2019년 Ing. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class Table_view_practiceUITests: XCTestCase {
+class CalendarUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
